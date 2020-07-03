@@ -15,4 +15,5 @@ ul.nav li a {
     color: #ffffff;
     display: block;
     text-decoration: none;
+    padding: 8px 16px;
 }

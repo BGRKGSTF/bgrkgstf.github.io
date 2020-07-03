@@ -7,9 +7,12 @@ ul.nav {
     margin: 0;
     padding: 0;
     list-style-type: none;
+    width: 250px;
 }
 
 ul.nav li a {
     font-family: "Trebuchet MS";
     color: #ffffff;
+    display: block;
+    text-decoration: none;
 }

@@ -9,7 +9,7 @@ ul.nav {
     list-style-type: none;
 }
 
-ul.nav li.title {
-    font: 'Trebuchet MS';
+ul.nav li a {
+    font-family: "Trebuchet MS";
     color: #ffffff;
 }

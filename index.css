@@ -1,0 +1,13 @@
+body {
+    margin: 0; 
+}
+
+ul.nav {
+    background-color: #000000;
+    margin: 0;
+}
+
+ul.nav li.title {
+    font: 'Trebuchet MS';
+    color: #ffffff;
+}
